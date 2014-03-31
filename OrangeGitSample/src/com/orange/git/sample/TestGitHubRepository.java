@@ -7,4 +7,8 @@ public class TestGitHubRepository {
 		System.out.println("I am a new branch.");
 		System.out.println("change something in new branch for test version history.");
 	}
+	
+	public static void masterChanges(){
+		System.out.println("Here is the changes on master which maybe your new branch want.");
+	}
 }
