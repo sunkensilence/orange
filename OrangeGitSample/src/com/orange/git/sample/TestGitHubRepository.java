@@ -5,5 +5,6 @@ public class TestGitHubRepository {
 		System.out.println("Hello Git and GitHub!");
 		System.out.println("test commit to local repository");
 		System.out.println("I am a new branch.");
+		System.out.println("change something in new branch for test version history.");
 	}
 }
