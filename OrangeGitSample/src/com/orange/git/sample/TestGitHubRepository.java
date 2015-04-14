@@ -9,4 +9,7 @@ public class TestGitHubRepository {
 	public static void masterChanges(){
 		System.out.println("Here is the changes on master which maybe your new branch want.");
 	}
+	
+	
 }
+
